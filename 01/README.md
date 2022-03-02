@@ -10,7 +10,8 @@ Para que seja possível utilizar o .vimrc, ele deve ser copiado para ~/.vimrc ou
 
 ### **Modelo de um computador**
 Acredito que você que está aqui, já deve saber como funciona um computador, mas abaixo, deixarei um modelo básico de computador.
-![modeloComputador](Imagens/Modelo_Computador.png)
+
+<center>![modeloComputador](Imagens/Modelo_Computador.png)</center>
 
 ### **Compilada ou Interpretada?**
 Uma linguagem interpretada, ela precisa de um programa interpretador, ou seja, que faça a leitura do código escrito e que durante a solicitação, faça a transcrição para a linguagem de máquina, para que a máquina possa interpretada e executar o código. Em caso de erro, o interpretador apresentará na tela, caso contrário, ele sucederá e imprimirá o código escrito. Um exemplo atual de linguagem interpretada é o Python.
